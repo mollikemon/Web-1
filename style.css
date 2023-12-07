@@ -1,0 +1,94 @@
+.flix{
+    margin-top: 50px;
+    display: flex;
+    margin-left: 350px;
+    gap: 100px;
+
+}
+.aass{
+color:hsl(22, 87%, 59%);
+}
+.aa2{
+    padding: 10px;
+    border-radius: 12px;
+    background-color:hsl(22, 87%, 59%) ;
+    color: aliceblue;
+   
+
+}
+.aas{
+    border-radius: 12px;
+    height: 250px;
+    width: 270px;
+}
+
+
+
+.flix1{ 
+    margin-top: 40px;
+background-image: url(download.jpeg);
+border-radius: 15px;
+display: block;
+height: 300px;
+width: 850px;
+margin-left: 200px;
+display: flex;
+gap: 40px;
+}
+.ppo{
+    border-radius: 15px;
+margin-left: 100px;
+margin-top: 50px
+}
+.ppoo{
+    margin-left: 100px;
+    margin-top: 50px
+  
+}
+.ppll{
+    margin-top: 30px;
+    padding: 10px;
+    border-radius: 15px;
+    background-color:hsl(22, 84%, 69%) ;
+}
+.uuuu{
+
+    margin-top: 10px;
+    text-align: center;
+}
+.flix3{
+    margin-left: 290px;
+    display:flex ;
+    gap: 50px;
+}
+.yyy{
+    border-radius: 15px;
+    height: 200px;
+    width: 300px;
+}
+.rr1{
+    margin-left: 300px;
+    margin-top: 20px;
+    text-align: center;
+    gap: 100px;
+    border: 1px solid rgb(249, 244, 244);
+    border-radius: 12px;
+    background-color: azure;
+    width: 600px;
+    display: flex;
+}
+.rr2{
+    margin-left: 30px;
+}
+.www{  margin-top: 20px;
+    border-radius: 8px;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    border: 1px solid ;
+    width: 750px;
+    margin-left: 220px;
+}
+.www1{
+    color:hsl(22, 84%, 69%);
+}
